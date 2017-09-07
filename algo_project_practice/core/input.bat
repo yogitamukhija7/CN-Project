@@ -1,0 +1,1 @@
+net use v: \\fileserver2.pdc.jiit\%1 %2 /USER:%1

@@ -1,0 +1,1 @@
+net use v: "\\fileserver2.pdc.jiit\Study Material" %2 /USER:%1

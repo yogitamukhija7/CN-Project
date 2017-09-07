@@ -1,0 +1,1 @@
+net use v: \\fileserver2.pdc.jiit\14103147 chien /USER:14103147 /y

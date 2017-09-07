@@ -1,0 +1,1 @@
+net use v: \\fileserver2.pdc.jiit\14103151 uranidiot /USER:14103151
