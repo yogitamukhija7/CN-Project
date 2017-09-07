@@ -1,0 +1,1 @@
+net use /delete %1:
